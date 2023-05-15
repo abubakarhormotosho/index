@@ -1,0 +1,10 @@
+npm install -g vsce
+vsce package
+vsce login
+ik2epn5v236iqv7gywjg5yrxpnyxmbqavxr6n6lvzfe5c4hrwmja
+vsce publish -p ik2epn5v236iqv7gywjg5yrxpnyxmbqavxr6n6lvzfe5c4hrwmja
+
+
+// open-vsx
+
+npx ovsx publish -p 0b98f55d-d449-4297-813e-ce0fdd25facf
